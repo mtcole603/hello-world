@@ -2,3 +2,5 @@ Here is a sample .txt file
 Here's a local change.  Did it save up?
 here's a change for "branch-2"
 here's a change from the office
+changes from office on a new
+Deleted some code from line 5
